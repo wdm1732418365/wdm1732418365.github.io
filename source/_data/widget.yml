@@ -1,0 +1,6 @@
+- class_name: user-map
+  id_name: user-map
+  name: 訪客地圖
+  icon: fas fa-heartbeat
+  order:
+  html: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wrUV1d5nKLrgx0hVLMnVEH1QZ2n_rsp0r62ZeW4WEyo"></script>'
