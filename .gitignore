@@ -5,6 +5,7 @@ db.json
 node_modules/
 public/
 .deploy*/
+_config.yml
 .deploy_git*/
 .idea
 themes/butterfly/.git
