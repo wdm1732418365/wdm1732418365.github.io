@@ -6,7 +6,7 @@ categories:
   - - VPS
 date: 2021-02-08 13:23:00
 top_img: 'linear-gradient(20deg,#0062be,#925696,#cc426e,#fb0347)'
-cover: http://www.ewomail.com/public/images/logo.jpg?20171022
+cover: http://bing.getlove.cn/bingImage
 # highlight_shrink: true
 ---
 
